@@ -1,0 +1,305 @@
+{
+    "m_SelectedDeviceId": "RZ8RB0K1ZAA",
+    "m_SelectedPackage": {
+        "deviceId": "RZCW51E7QHR",
+        "name": "com.esprit.PlantMe",
+        "processId": 24294,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R58R83A56ST",
+            "name": "com.android.dreams.basic",
+            "processId": 25500,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R83A56ST",
+            "name": "com.esprit.PlantMe",
+            "processId": 19171,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R83A56ST",
+            "name": "com.esprit.PlantMe",
+            "processId": 21619,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R83A56ST",
+            "name": "com.esprit.PlantMe",
+            "processId": 23748,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R83A56ST",
+            "name": "com.esprit.PlantMe",
+            "processId": 21615,
+            "exited": true
+        },
+        {
+            "deviceId": "R58R83A56ST",
+            "name": "com.android.dreams.basic",
+            "processId": 31239,
+            "exited": false
+        },
+        {
+            "deviceId": "R58R83A56ST",
+            "name": "com.esprit.PlantMe",
+            "processId": 32091,
+            "exited": false
+        },
+        {
+            "deviceId": "R58R83A56ST",
+            "name": "com.esprit.PlantMe",
+            "processId": 14819,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 29603,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 32311,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 2105,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 3388,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 5579,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 6673,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 7462,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 8294,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 9274,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 10149,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.121:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 11019,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.139:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 11407,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.139:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 884,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.139:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 6566,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.139:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 10224,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.139:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 19088,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.139:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 22082,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.139:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 23307,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 29878,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 11417,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 12943,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 13638,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 14772,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.sec.android.app.launcher",
+            "processId": 30730,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 15206,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 16801,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 21141,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.198:5555",
+            "name": "com.esprit.PlantMe",
+            "processId": 21961,
+            "exited": false
+        },
+        {
+            "deviceId": "RZCW51E7QHR",
+            "name": "com.esprit.PlantMe",
+            "processId": 16049,
+            "exited": false
+        },
+        {
+            "deviceId": "RZCW51E7QHR",
+            "name": "com.esprit.PlantMe",
+            "processId": 17526,
+            "exited": false
+        },
+        {
+            "deviceId": "RZCW51E7QHR",
+            "name": "com.esprit.PlantMe",
+            "processId": 20159,
+            "exited": false
+        },
+        {
+            "deviceId": "RZCW51E7QHR",
+            "name": "com.esprit.PlantMe",
+            "processId": 24294,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
